@@ -6,7 +6,8 @@ authors = ["Esperanza Dueñas <esperanzaduenas007@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-spatula = "^0.9.0"
+spatula = "0.9.0"
+pydantic = "^1.9.1"
 
 [tool.poetry.dev-dependencies]
 
